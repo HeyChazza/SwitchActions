@@ -1,0 +1,6 @@
+name: CIFYSwitcher
+version: 1.0-SNAPSHOT
+main: com.codeitforyou.switcher.CIFYSwitcher
+author: "CodeItForYou"
+website: https://codeitforyou.com/
+description: A plugin for voting.
